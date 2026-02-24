@@ -77,6 +77,10 @@ The model generalizes well with minimal overfitting.
 
 ---
 
+##AUTHOR-
+- AFFAN AHMAD
+
+  
 ##  How to Run
 
 ```bash
@@ -85,5 +89,3 @@ cd vehicle-classification-resnet50
 pip install -r requirements.txt
 
 ---
-##AUTHOR-
-- AFFAN AHMAD 
